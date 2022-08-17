@@ -1,0 +1,22 @@
+{
+    "posts":
+    [{
+        "comment":"Lacazette my goat",
+        "image":"goat.jpg",
+        "id": 0
+    },
+    {
+        "comment":"Saka is my hero",
+        "image":"arsenal.png.opdownload",
+        "id": 0
+    }],
+    "users": 
+    [{
+        "name":"Anonymous",
+        "id": 0
+    },
+    {
+        "name":"Admin",
+        "id": 1
+    }]
+}
